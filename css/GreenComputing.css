@@ -1,0 +1,183 @@
+/* DESKTOP */
+@media all and (min-width: 1200px) {
+  #GreenComputing {
+    background-image: url("../images/recycle.JPG");
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  .RC-Pos {
+    margin: 2rem;
+    position: relative;
+    top: 2rem;
+  }
+
+  .RecyclingCitation {
+    float: left;
+  }
+
+  .RecyclingText {
+    text-align: center;
+    margin: 1rem;
+    font-weight: 700;
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+    color: black;
+  }
+  .RecyclingTable {
+    border: solid;
+    margin: 2rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: black;
+  }
+
+  .HardriveInfoHeader {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: black;
+  }
+
+  .HarddriveBackground {
+    margin: 2rem;
+    border: solid;
+    color: black;
+  }
+
+  .HarddriveList {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: black;
+  }
+  .Row {
+    border: solid;
+  }
+  .navbar-nav {
+    font-size: 1.4rem !important;
+  }
+  .nav-item {
+    color: #000;
+  }
+}
+/* Laptop */
+@media all and (min-width: 950px) and (max-width: 1199px) {
+  #GreenComputing {
+    background-image: url("../images/recycle.JPG");
+    background-size: cover;
+  }
+  .RC-Pos {
+    margin: 2rem;
+    position: relative;
+    top: 2rem;
+  }
+
+  .RecyclingCitation {
+    float: left;
+  }
+
+  .RecyclingText {
+    text-align: center;
+    margin: 1rem;
+    font-weight: 700;
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+  }
+  .RecyclingTable {
+    border: solid;
+    margin: 2rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: black;
+    backdrop-filter: blur(1rem);
+  }
+
+  .HardriveInfoHeader {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: black;
+  }
+
+  .HarddriveBackground {
+    backdrop-filter: blur(1rem);
+    margin: 2rem;
+    border: solid;
+    color: black;
+  }
+
+  .HarddriveList {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: black;
+  }
+  .Row {
+    border: solid;
+  }
+  .navbar-nav {
+    font-size: 1.4rem !important;
+  }
+  .nav-item {
+    color: #000;
+  }
+}
+/* TABLET */
+@media all and (min-width: 501px) and (max-width: 949px) {
+  #GreenComputing {
+    background-image: url("../images/pexels-emmet-128421.jpg");
+    background-size: cover;
+  }
+  .RC-Pos {
+    margin: 2rem;
+    position: relative;
+    top: 2rem;
+  }
+
+  .RecyclingCitation {
+    float: left;
+  }
+
+  .RecyclingText {
+    text-align: center;
+    margin: 1rem;
+    font-weight: 700;
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+  }
+  .RecyclingTable {
+    border: solid;
+    margin: 2rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: black;
+    backdrop-filter: blur(1rem);
+  }
+
+  .HardriveInfoHeader {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: black;
+  }
+
+  .HarddriveBackground {
+    backdrop-filter: blur(1rem);
+    margin: 2rem;
+    border: solid;
+    color: black;
+  }
+
+  .HarddriveList {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: black;
+  }
+  .Row {
+    border: solid;
+  }
+  .navbar-nav {
+    font-size: 1.4rem !important;
+  }
+  .nav-item {
+    color: #000;
+  }
+}
